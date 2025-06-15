@@ -85,7 +85,7 @@ SAMPart3D-industrial/
 ├── eval/
 │   └── eval_part.py                     # Evaluation logic
 ├── scripts/
-│   └── batch_render.sh                  # run /tools/blender_render_16views.py for multiple GLB models
+│   └── batch_render.sh                  # run /blender_render_16views.py for multiple GLB models
 │   └── batch_train.sh                   # Iterative MLP Fine-tuning
 ├── 2500.pth                             # fine-tuned MLP
 └── README.md                            # ← This file
