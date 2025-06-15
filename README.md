@@ -54,8 +54,10 @@ A small-scale curated dataset of **25 industrial part models** with face-level c
 
 - Source: McMaster-CARR CAD repository  
 - Format: `.glb` with color-coded surfaces  
-- Pipeline: IGS → OBJ → Blender annotation → GLB  
+- Pipeline: IGS → OBJ → Blender annotation → GLB
+- Download:https://huggingface.co/datasets/rubrrr/Industrial_Components-Tiny 
 - Example visualization:
+![image](https://github.com/user-attachments/assets/21c08837-0f6b-4ef1-a9f9-e71c4587cc86)
 
 
 ---
